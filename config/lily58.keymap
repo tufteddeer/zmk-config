@@ -11,7 +11,7 @@
 #include <dt-bindings/zmk/keys.h>
 
 &mt {
-    tapping-term-ms = <380>;
+    tapping-term-ms = <5000>;
 };
 
 / {
